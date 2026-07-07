@@ -1,0 +1,6 @@
+{
+  "latest_version": "1.4.24",
+  "mandatory": false,
+  "download_url": "PUT_ZIP_LINK_HERE",
+  "notes": ["First release", "WYSIWYG Khmer subtitle", "Bundled FFmpeg"]
+}
